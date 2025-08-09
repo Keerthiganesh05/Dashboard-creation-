@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Mode,Customer Name,Segment,Country,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-001001,2022-01-01,Standard Class,Ravi,Home Office,India,South,Technology,Tables,690.28,3,0.07,-199.18
+CA-001002,2022-01-02,Same Day,Ram,Home Office,India,South,Technology,Accessories,623.53,7,0.2,-107.56
+CA-001003,2022-01-03,First Class,Ram,Consumer,India,Central,Furniture,Paper,945.01,3,0.19,-359.33
+CA-001004,2022-01-04,Standard Class,Anjali,Consumer,India,South,Furniture,Accessories,945.37,2,0.11,369.19
+CA-001005,2022-01-05,Standard Class,Ram,Corporate,India,Central,Technology,Tables,869.85,4,0.03,81.41
+CA-001006,2022-01-06,Same Day,Ram,Consumer,India,West,Technology,Tables,643.68,8,0.2,115.28
+CA-001007,2022-01-07,First Class,Deepak,Home Office,India,Central,Office Supplies,Accessories,804.93,9,0.16,232.76
+CA-001008,2022-01-08,First Class,Anjali,Home Office,India,Central,Technology,Chairs,683.62,7,0.23,-1.06
+CA-001009,2022-01-09,Standard Class,Deepak,Consumer,India,Central,Office Supplies,Binders,581.9,1,0.16,-240.37
+CA-001010,2022-01-10,Second Class,Ravi,Home Office,India,South,Office Supplies,Tables,145.93,3,0.26,5.41
+CA-001011,2022-01-11,Standard Class,Sneha,Home Office,India,South,Office Supplies,Accessories,814.98,9,0.17,70.77
+CA-001012,2022-01-12,Standard Class,Ravi,Consumer,India,Central,Office Supplies,Accessories,824.23,1,0.17,202.3
+CA-001013,2022-01-13,Standard Class,Sneha,Consumer,India,South,Office Supplies,Phones,633.42,9,0.26,-43.29
+CA-001014,2022-01-14,Standard Class,Deepak,Home Office,India,East,Furniture,Binders,824.02,8,0.12,-306.88
+CA-001015,2022-01-15,Same Day,Ravi,Home Office,India,East,Technology,Paper,658.46,1,0.04,-142.37
+CA-001016,2022-01-16,First Class,Anjali,Home Office,India,South,Office Supplies,Chairs,222.55,6,0.01,-30.47
+CA-001017,2022-01-17,Same Day,Keerthi,Corporate,India,South,Technology,Paper,288.48,5,0.23,42.09
+CA-001018,2022-01-18,Same Day,Deepak,Corporate,India,Central,Technology,Binders,230.3,6,0.19,16.3
+CA-001019,2022-01-19,Same Day,Sneha,Corporate,India,West,Office Supplies,Binders,389.71,5,0.21,-56.08
+CA-001020,2022-01-20,Standard Class,Vimal,Consumer,India,South,Furniture,Binders,58.18,6,0.06,28.31
+CA-001021,2022-01-21,Second Class,Sneha,Corporate,India,East,Office Supplies,Paper,625.89,5,0.04,66.2
+CA-001022,2022-01-22,First Class,Vimal,Consumer,India,Central,Furniture,Binders,349.82,5,0.0,-91.92
+CA-001023,2022-01-23,Second Class,Ram,Consumer,India,South,Technology,Accessories,662.61,4,0.11,-263.86
+CA-001024,2022-01-24,Same Day,Ravi,Corporate,India,East,Furniture,Paper,397.69,3,0.18,-138.05
+CA-001025,2022-01-25,Same Day,Vimal,Corporate,India,East,Furniture,Binders,687.98,3,0.12,-174.78
+CA-001026,2022-01-26,Second Class,Sneha,Corporate,India,West,Furniture,Accessories,353.81,4,0.13,-120.05
+CA-001027,2022-01-27,Second Class,Ram,Home Office,India,Central,Technology,Phones,275.48,9,0.27,-86.34
+CA-001028,2022-01-28,Second Class,Keerthi,Corporate,India,Central,Technology,Binders,506.12,2,0.1,-108.77
+CA-001029,2022-01-29,Same Day,Anjali,Home Office,India,West,Furniture,Paper,699.03,9,0.15,-228.32
+CA-001030,2022-01-30,Same Day,Anjali,Consumer,India,West,Furniture,Tables,361.37,1,0.24,143.38
+CA-001031,2022-01-31,First Class,Anjali,Home Office,India,Central,Office Supplies,Binders,937.92,1,0.12,-393.71
+CA-001032,2022-02-01,First Class,Vimal,Corporate,India,Central,Furniture,Tables,58.4,5,0.19,1.43
+CA-001033,2022-02-02,Same Day,Keerthi,Consumer,India,South,Office Supplies,Accessories,429.59,6,0.26,-38.49
+CA-001034,2022-02-03,Second Class,Vimal,Consumer,India,South,Furniture,Phones,968.23,6,0.28,467.05
+CA-001035,2022-02-04,Second Class,Ravi,Consumer,India,West,Office Supplies,Chairs,557.01,3,0.04,-216.1
+CA-001036,2022-02-05,First Class,Vimal,Home Office,India,South,Technology,Phones,435.0,7,0.28,-44.43
+CA-001037,2022-02-06,Same Day,Keerthi,Corporate,India,East,Furniture,Binders,577.15,9,0.15,270.95
+CA-001038,2022-02-07,First Class,Keerthi,Consumer,India,South,Furniture,Tables,584.41,8,0.08,213.61
+CA-001039,2022-02-08,First Class,Ravi,Consumer,India,South,Furniture,Tables,737.01,6,0.14,233.69
+CA-001040,2022-02-09,Standard Class,Keerthi,Consumer,India,East,Furniture,Paper,145.14,8,0.29,-35.14
+CA-001041,2022-02-10,Standard Class,Sneha,Home Office,India,West,Office Supplies,Tables,265.02,5,0.15,-87.22
+CA-001042,2022-02-11,Standard Class,Keerthi,Home Office,India,East,Furniture,Paper,588.93,8,0.1,99.32
+CA-001043,2022-02-12,Second Class,Anjali,Corporate,India,South,Technology,Accessories,869.77,4,0.19,373.46
+CA-001044,2022-02-13,Same Day,Sneha,Home Office,India,West,Technology,Chairs,570.63,8,0.07,32.39
+CA-001045,2022-02-14,Same Day,Sneha,Consumer,India,South,Furniture,Binders,253.82,2,0.02,18.18
+CA-001046,2022-02-15,Same Day,Ravi,Corporate,India,East,Technology,Paper,686.25,5,0.04,-150.99
+CA-001047,2022-02-16,Same Day,Priya,Consumer,India,East,Furniture,Chairs,745.11,9,0.04,200.8
+CA-001048,2022-02-17,Standard Class,Priya,Consumer,India,South,Furniture,Tables,253.47,4,0.05,-79.33
+CA-001049,2022-02-18,Second Class,Keerthi,Home Office,India,Central,Technology,Tables,390.17,6,0.04,-68.8
+CA-001050,2022-02-19,Second Class,Sneha,Corporate,India,Central,Furniture,Chairs,543.64,1,0.19,-40.54
+CA-001051,2022-02-20,Standard Class,Priya,Home Office,India,East,Technology,Tables,506.63,9,0.05,3.86
+CA-001052,2022-02-21,Second Class,Priya,Home Office,India,East,Office Supplies,Accessories,401.83,1,0.1,-103.51
+CA-001053,2022-02-22,Standard Class,Keerthi,Corporate,India,Central,Furniture,Accessories,311.68,5,0.27,-120.05
+CA-001054,2022-02-23,Same Day,Priya,Consumer,India,Central,Office Supplies,Chairs,117.99,4,0.14,13.05
+CA-001055,2022-02-24,Standard Class,Vimal,Consumer,India,South,Technology,Paper,72.42,3,0.2,-15.31
+CA-001056,2022-02-25,Same Day,Ram,Corporate,India,South,Office Supplies,Paper,959.37,6,0.05,77.94
+CA-001057,2022-02-26,Same Day,Ravi,Consumer,India,Central,Office Supplies,Chairs,850.2,2,0.06,-293.86
+CA-001058,2022-02-27,First Class,Ram,Corporate,India,South,Technology,Paper,367.81,3,0.01,-6.94
+CA-001059,2022-02-28,Standard Class,Keerthi,Corporate,India,South,Office Supplies,Paper,957.66,5,0.05,31.21
+CA-001060,2022-03-01,First Class,Anjali,Home Office,India,West,Office Supplies,Accessories,683.23,9,0.08,-306.21
+CA-001061,2022-03-02,Standard Class,Ravi,Corporate,India,South,Technology,Paper,492.87,2,0.05,-80.53
+CA-001062,2022-03-03,Standard Class,Keerthi,Home Office,India,East,Office Supplies,Phones,503.17,8,0.03,-183.95
+CA-001063,2022-03-04,First Class,Sneha,Consumer,India,South,Technology,Binders,101.62,2,0.04,-44.37
+CA-001064,2022-03-05,First Class,Anjali,Consumer,India,South,Office Supplies,Tables,109.87,5,0.14,53.83
+CA-001065,2022-03-06,Standard Class,Ram,Consumer,India,Central,Technology,Phones,610.39,7,0.06,-108.43
+CA-001066,2022-03-07,Second Class,Keerthi,Consumer,India,East,Technology,Paper,562.63,8,0.11,174.34
+CA-001067,2022-03-08,Same Day,Sneha,Home Office,India,South,Office Supplies,Accessories,228.47,1,0.15,-56.06
+CA-001068,2022-03-09,First Class,Ravi,Consumer,India,South,Office Supplies,Chairs,947.27,6,0.21,171.93
+CA-001069,2022-03-10,Same Day,Ravi,Corporate,India,West,Office Supplies,Paper,785.67,1,0.01,204.45
+CA-001070,2022-03-11,Second Class,Deepak,Corporate,India,South,Furniture,Accessories,131.2,2,0.24,12.55
+CA-001071,2022-03-12,Second Class,Sneha,Corporate,India,South,Furniture,Binders,932.31,1,0.19,-26.5
+CA-001072,2022-03-13,Second Class,Vimal,Home Office,India,West,Furniture,Paper,974.76,5,0.02,-85.93
+CA-001073,2022-03-14,First Class,Priya,Consumer,India,Central,Technology,Chairs,996.01,9,0.26,-150.53
+CA-001074,2022-03-15,Second Class,Anjali,Consumer,India,South,Office Supplies,Accessories,74.75,6,0.28,32.11
+CA-001075,2022-03-16,First Class,Sneha,Consumer,India,West,Technology,Accessories,742.29,1,0.02,245.42
+CA-001076,2022-03-17,Second Class,Deepak,Home Office,India,East,Furniture,Accessories,555.0,1,0.08,258.09
+CA-001077,2022-03-18,Same Day,Priya,Corporate,India,Central,Office Supplies,Binders,711.71,2,0.24,-267.39
+CA-001078,2022-03-19,Same Day,Priya,Corporate,India,East,Technology,Paper,969.28,9,0.22,223.78
+CA-001079,2022-03-20,Standard Class,Keerthi,Consumer,India,East,Office Supplies,Binders,694.27,3,0.06,304.33
+CA-001080,2022-03-21,Same Day,Priya,Corporate,India,West,Technology,Tables,840.22,1,0.06,-267.83
+CA-001081,2022-03-22,Standard Class,Vimal,Corporate,India,South,Office Supplies,Tables,869.53,5,0.11,-376.94
+CA-001082,2022-03-23,Same Day,Ravi,Home Office,India,West,Furniture,Paper,841.71,7,0.15,202.95
+CA-001083,2022-03-24,First Class,Deepak,Home Office,India,West,Furniture,Binders,437.57,6,0.19,32.59
+CA-001084,2022-03-25,Same Day,Priya,Home Office,India,West,Office Supplies,Chairs,238.12,1,0.11,81.4
+CA-001085,2022-03-26,Standard Class,Keerthi,Home Office,India,West,Technology,Accessories,408.72,5,0.14,-147.23
+CA-001086,2022-03-27,Standard Class,Vimal,Consumer,India,Central,Furniture,Accessories,894.06,5,0.22,263.99
+CA-001087,2022-03-28,Second Class,Ram,Home Office,India,South,Furniture,Paper,163.67,6,0.01,-48.83
+CA-001088,2022-03-29,First Class,Ravi,Corporate,India,East,Furniture,Tables,523.06,3,0.08,-175.93
+CA-001089,2022-03-30,Same Day,Ravi,Consumer,India,East,Office Supplies,Tables,248.56,5,0.21,-83.45
+CA-001090,2022-03-31,Second Class,Deepak,Corporate,India,South,Office Supplies,Accessories,589.68,7,0.27,185.5
+CA-001091,2022-04-01,Same Day,Ravi,Corporate,India,East,Technology,Paper,865.88,5,0.15,143.04
+CA-001092,2022-04-02,Same Day,Priya,Corporate,India,South,Technology,Binders,882.75,5,0.16,20.36
+CA-001093,2022-04-03,Second Class,Keerthi,Home Office,India,East,Technology,Tables,251.95,5,0.03,-35.57
+CA-001094,2022-04-04,Second Class,Ravi,Home Office,India,West,Office Supplies,Binders,909.54,3,0.13,343.08
+CA-001095,2022-04-05,Second Class,Ravi,Consumer,India,East,Office Supplies,Tables,600.05,1,0.16,-64.54
+CA-001096,2022-04-06,Second Class,Ram,Consumer,India,South,Technology,Tables,363.21,5,0.07,114.99
+CA-001097,2022-04-07,Second Class,Ram,Home Office,India,South,Technology,Phones,714.02,9,0.08,-43.46
+CA-001098,2022-04-08,Same Day,Anjali,Corporate,India,South,Office Supplies,Tables,492.03,1,0.11,-60.55
+CA-001099,2022-04-09,Second Class,Vimal,Consumer,India,South,Technology,Chairs,390.43,3,0.01,-14.57
+CA-001100,2022-04-10,First Class,Priya,Home Office,India,South,Furniture,Paper,710.98,4,0.1,-141.22
